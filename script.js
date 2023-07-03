@@ -18,4 +18,3 @@ function decrementButton() {
     element.innerHTML = value;
 }
 
-
